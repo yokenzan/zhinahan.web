@@ -1,0 +1,35 @@
+site_name: 学生字典
+docs_dir: docs
+repo_url: https://github.com/yokenzan/zhinahan.web
+theme:
+  name: material
+  font:
+    text: Noto Serif SC
+  features:
+    - tabs
+    - search.highlight
+  palette:
+    scheme: slate
+    primary: amber
+    accent: orange
+    lang: zh-TW
+plugins:
+  - search:
+      lang: ja
+      prebuild_index: true
+markdown_extensions:
+  - toc:
+      permalink: true
+      baselevel: 2
+  #     slugify: !!python/name:pymdownx.slugs.uslugify
+  # - admonition
+  # - footnotes
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - def_list
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+  #     clickable_checkbox: true
+extra:
+  generator: false
