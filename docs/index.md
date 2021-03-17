@@ -1,4 +1,4 @@
-# 学生字典
+# 學生字典
 
 Zhinahan / Xuesheng Zidian
 
