@@ -9,8 +9,8 @@ theme:
     - tabs
     - search.highlight
   palette:
-    scheme: slate
-    primary: amber
+    scheme: default
+    primary: blue
     accent: orange
     lang: zh-TW
 plugins:
@@ -21,6 +21,9 @@ markdown_extensions:
   - toc:
       permalink: true
       baselevel: 2
+  # required to use MathJax
+  - pymdownx.arithmatex:
+      generic: true
   #     slugify: !!python/name:pymdownx.slugs.uslugify
   # - admonition
   # - footnotes
@@ -33,3 +36,8 @@ markdown_extensions:
   #     clickable_checkbox: true
 extra:
   generator: false
+# required to use MathJax
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

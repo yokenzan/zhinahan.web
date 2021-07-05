@@ -4,6 +4,19 @@ Zhinahan / Xuesheng Zidian
 
 also known as "支那文を讀む爲の漢字典" in Japan
 
+
+$$
+\overset{\tiny いにしへ}{古}{^{\tiny ニ}}\overset{\tiny あめつち}{天地}\underset{\tiny ず}{\overset{\tiny いま}{未}}{^{\tiny ダ}_{\tiny レ}}\overset{\tiny わか}{剖}{^{\tiny レ}}、\overset{\tiny めを}{陰陽}\underset{\tiny ず}{不}{_{\tiny レ}}\overset{\tiny わか}{分}{^{\tiny レ}}、\\渾沌^{\tiny ニシテ}如^{\tiny ク}_{\tiny 二}\overset{\tiny とりのこ}{鶏子}{^{\tiny ノ}_{\tiny 一}}、溟涬^{\tiny ニシテ}而\overset{\tiny ふふ}{含}{^{\tiny メリ}_{\tiny レ}}\overset{\tiny きざし}{牙}{^{\tiny ヲ}}。
+$$
+
+$$
+\begin{array}{l}宋\overset{\tiny ひと}{人}{^ニ}有^リ_二耕^ス_レ田^ヲ者_一。\\
+田^ノ中^ニ有^リ_レ株，兔走^{リテ}觸^レ_レ珠^ニ，折^{リテ}_レ頸^ヲ而死^ス。 \\
+因^{リテ}其^ノ\overset{\tiny す}{釋}{^{テテ}_ニ}\overset{\tiny すき}{耒}{^ヲ_一}而守^リ_レ珠^ヲ，\overset{\tiny こひねが}{冀}{^フ_二}復^タ得^{ンコトヲ}_{\tiny{一 \atop  レ}}兔^ヲ。\\
+不^{シテ}_レ可^{カラ}_二復^タ得_一，而身{^ハ}為^{レリ}_二宋國^ノ笑^ト_一。
+\end{array}
+$$
+
 # 部首
 
 - [000_一](radicals/000_一.md)
