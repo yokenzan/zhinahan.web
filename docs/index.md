@@ -6,12 +6,17 @@ also known as "支那文を讀む爲の漢字典" in Japan
 
 # 部首
 
+## 1畫
+
 - [000_一](radicals/000_一.md)
 - [001_丨](radicals/001_丨.md)
 - [002_丶](radicals/002_丶.md)
 - [003_丿](radicals/003_丿.md)
 - [004_乙](radicals/004_乙.md)
 - [005_亅](radicals/005_亅.md)
+
+## 2畫
+
 - [006_二](radicals/006_二.md)
 - [007_亠](radicals/007_亠.md)
 - [008_人](radicals/008_人.md)
@@ -35,6 +40,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [026_厂](radicals/026_厂.md)
 - [027_厶](radicals/027_厶.md)
 - [028_又](radicals/028_又.md)
+
+## 3畫
+
 - [029_口](radicals/029_口.md)
 - [030_囗](radicals/030_囗.md)
 - [031_土](radicals/031_土.md)
@@ -66,6 +74,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [057_彐](radicals/057_彐.md)
 - [058_彡](radicals/058_彡.md)
 - [059_彳](radicals/059_彳.md)
+
+## 4畫
+
 - [060_心](radicals/060_心.md)
 - [061_戈](radicals/061_戈.md)
 - [062_戶](radicals/062_戶.md)
@@ -100,6 +111,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [091_牙](radicals/091_牙.md)
 - [092_牛](radicals/092_牛.md)
 - [093_犬](radicals/093_犬.md)
+
+## 5畫
+
 - [094_玄](radicals/094_玄.md)
 - [095_玉](radicals/095_玉.md)
 - [096_瓜](radicals/096_瓜.md)
@@ -123,6 +137,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [114_禾](radicals/114_禾.md)
 - [115_穴](radicals/115_穴.md)
 - [116_立](radicals/116_立.md)
+
+## 6畫
+
 - [117_竹](radicals/117_竹.md)
 - [118_米](radicals/118_米.md)
 - [119_糸](radicals/119_糸.md)
@@ -152,6 +169,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [143_行](radicals/143_行.md)
 - [144_衣](radicals/144_衣.md)
 - [145_襾](radicals/145_襾.md)
+
+## 7畫
+
 - [146_見](radicals/146_見.md)
 - [147_角](radicals/147_角.md)
 - [148_言](radicals/148_言.md)
@@ -172,6 +192,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [163_酉](radicals/163_酉.md)
 - [164_采](radicals/164_采.md)
 - [165_里](radicals/165_里.md)
+
+## 8畫
+
 - [166_金](radicals/166_金.md)
 - [167_長](radicals/167_長.md)
 - [168_門](radicals/168_門.md)
@@ -181,6 +204,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [172_雨](radicals/172_雨.md)
 - [173_青](radicals/173_青.md)
 - [174_非](radicals/174_非.md)
+
+## 9畫
+
 - [175_面](radicals/175_面.md)
 - [176_革](radicals/176_革.md)
 - [177_韋](radicals/177_韋.md)
@@ -192,6 +218,9 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [183_食](radicals/183_食.md)
 - [184_首](radicals/184_首.md)
 - [185_香](radicals/185_香.md)
+
+## 10畫
+
 - [186_馬](radicals/186_馬.md)
 - [187_骨](radicals/187_骨.md)
 - [188_高](radicals/188_高.md)
@@ -200,23 +229,44 @@ also known as "支那文を讀む爲の漢字典" in Japan
 - [191_鬯](radicals/191_鬯.md)
 - [192_鬲](radicals/192_鬲.md)
 - [193_鬼](radicals/193_鬼.md)
+
+## 11畫
+
 - [194_魚](radicals/194_魚.md)
 - [195_鳥](radicals/195_鳥.md)
 - [196_鹵](radicals/196_鹵.md)
 - [197_鹿](radicals/197_鹿.md)
 - [198_麥](radicals/198_麥.md)
 - [199_麻](radicals/199_麻.md)
+
+## 12畫
+
 - [200_黃](radicals/200_黃.md)
 - [201_黍](radicals/201_黍.md)
 - [202_黑](radicals/202_黑.md)
 - [203_黹](radicals/203_黹.md)
+
+## 13畫
+
 - [204_黽](radicals/204_黽.md)
 - [205_鼎](radicals/205_鼎.md)
 - [206_鼓](radicals/206_鼓.md)
 - [207_鼠](radicals/207_鼠.md)
+
+## 14畫
+
 - [208_鼻](radicals/208_鼻.md)
 - [209_齊](radicals/209_齊.md)
+
+## 15畫
+
 - [210_齒](radicals/210_齒.md)
+
+## 16畫
+
 - [211_龍](radicals/211_龍.md)
 - [212_龜](radicals/212_龜.md)
+
+## 17畫
+
 - [213_龠](radicals/213_龠.md)
