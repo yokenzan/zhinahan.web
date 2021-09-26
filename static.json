@@ -1,4 +1,4 @@
 {
     "root":       "public/",
-    "basic_auth": true
+    "basic_auth": false
 }
