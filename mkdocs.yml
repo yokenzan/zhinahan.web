@@ -9,8 +9,8 @@ theme:
     - tabs
     - search.highlight
   palette:
-    scheme: slate
-    primary: amber
+    scheme: default
+    primary: blue
     accent: orange
     lang: zh-TW
 plugins:
