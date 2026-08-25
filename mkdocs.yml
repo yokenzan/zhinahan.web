@@ -13,10 +13,6 @@ theme:
     primary: blue
     accent: orange
     lang: zh-TW
-plugins:
-  - search:
-      lang: ja
-      prebuild_index: true
 markdown_extensions:
   - toc:
       permalink: true
